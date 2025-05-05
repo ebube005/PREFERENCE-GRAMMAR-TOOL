@@ -8,7 +8,6 @@ function ResultPage() {
 
   const { tableData, pronunciation } = location.state || {};
 
-  // Redirect if user visits result page directly
   useEffect(() => {
     if (!tableData || !pronunciation) {
       navigate("/");

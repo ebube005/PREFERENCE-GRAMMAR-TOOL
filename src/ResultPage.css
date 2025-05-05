@@ -3,6 +3,11 @@
   padding: 2rem;
   font-family: sans-serif;
 }
+.final {
+  text-align: center;
+  padding: 2rem;
+  font-family: sans-serif;
+}
 
 .table-wrapper {
   display: flex;

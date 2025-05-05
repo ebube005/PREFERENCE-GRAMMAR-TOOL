@@ -149,14 +149,6 @@ button:focus-visible {
   position: relative;
 }
 .slider::-webkit-slider-thumb {
-  /* appearance: none;
-  width: 16px;
-  height: 16px;
-  background: #5d3fd3;
-  border-radius: 50%;
-  cursor: pointer;
-  position: relative;
-  z-index: 2; */
   appearance: none;
   width: 16px;
   height: 16px;
@@ -168,18 +160,6 @@ button:focus-visible {
 }
 
 .bubble {
-  /* position: absolute;
-  top: -25px;
-  transform: translateX(-50%);
-  background: #5d3fd3;
-  color: white;
-  padding: 2px 8px;
-  border-radius: 12px;
-  font-size: 12px;
-  font-weight: bold;
-  z-index: 1;
-  
- */
   position: absolute;
   top: -30px;
   transform: translateX(-50%);

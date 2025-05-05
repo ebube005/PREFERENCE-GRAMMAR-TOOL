@@ -27,12 +27,6 @@ ReactDOM.createRoot(root).render(
     </BrowserRouter>
   </React.StrictMode>
 );
-// function main (){
-//     return {
-//         <Routes>
-//         <Route path='/' element= {<Home/>}/>
-//         <Route path ='result' element={<ResultPage/>}></>
-//         </Routes>
 
 //     }
 // }

@@ -48,12 +48,6 @@ function Search() {
   );
 }
 function CriteriaSliders({ sliders, setSliders }) {
-  // const [sliders, setSliders] = useState(
-  //   criterias.reduce((acc, cur) => {
-  //     acc[cur] = 4;
-  //     return acc;
-  //   }, {})
-  // );
   const handleChange = (criterion, value) => {
     setSliders({
       ...sliders,
