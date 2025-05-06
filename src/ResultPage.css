@@ -1,0 +1,43 @@
+.result-container {
+  text-align: center;
+  padding: 2rem;
+  font-family: sans-serif;
+}
+.final {
+  text-align: center;
+  padding: 2rem;
+  font-family: sans-serif;
+}
+
+.table-wrapper {
+  display: flex;
+  justify-content: center;
+  margin: 1rem 0;
+}
+
+.output-table {
+  border-collapse: collapse;
+  border: 2px solid #333;
+  border-radius: 15px;
+  overflow: hidden;
+}
+
+.output-table td {
+  border: 1px dotted #888;
+  padding: 0.5rem 1rem;
+}
+
+.pronunciation {
+  margin: 1rem 0;
+  font-size: 1.1rem;
+}
+
+.download-btn {
+  background: #6b52a3;
+  color: white;
+  padding: 1rem 2rem;
+  border: none;
+  border-radius: 2rem;
+  cursor: pointer;
+  font-weight: bold;
+}

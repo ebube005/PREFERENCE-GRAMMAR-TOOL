@@ -1,0 +1,31 @@
+.uploader {
+  border: 2px dashed #c3bfff;
+  border-radius: 12px;
+  padding: 40px 20px;
+  text-align: center;
+  background-color: #f9f8ff;
+  color: #6a5acd;
+  display: flex;
+  flex-direction: column;
+  max-width: 600px;
+  align-items: center;
+  margin: 0 auto;
+}
+.textupload {
+  color: #6a5acd;
+  text-decoration: underline;
+  cursor: pointer;
+}
+.format {
+  font-size: 0.9rem;
+  color: #999;
+}
+
+.cloud {
+  width: 45px;
+  height: 45px;
+  margin-bottom: 1rem;
+  display: inline-block;
+  color: #c3bfff;
+  align-items: center;
+}
