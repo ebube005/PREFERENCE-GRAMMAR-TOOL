@@ -1,7 +1,7 @@
 import { useLocation, useNavigate } from "react-router-dom";
 import { useEffect } from "react";
 import "./ResultPage.css";
-
+//last page
 function ResultPage() {
   const location = useLocation();
   const navigate = useNavigate();
